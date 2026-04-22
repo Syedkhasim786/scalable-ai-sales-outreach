@@ -1,8 +1,4 @@
-fastapi
-uvicorn
+streamlit
 openai
 python-dotenv
-python-multipart
-pandas
-python-multipart
 pandas
