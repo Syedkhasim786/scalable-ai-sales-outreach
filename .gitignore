@@ -1,2 +1,5 @@
 .env
 __pycache__/
+*.pyc
+temp_*.csv
+.DS_Store
